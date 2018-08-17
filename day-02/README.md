@@ -10,7 +10,7 @@ cd <name of directory>
 cd ..
 
 # go to your root directory
-~
+cd ~
 
 # make a directory
 mkdir <name of directory>
